@@ -1,0 +1,1 @@
+## Te puse el css que normalmente usaba y una validación en javascript que es correspondiente al archivo de alta_tabla_marian.php que es de un formulario, igual usalos de ejemplos, te iré pasando los nuevos archivos que nos de el profe de ejemplo cada semana para las nuevas tareas.
